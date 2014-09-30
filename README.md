@@ -1,4 +1,4 @@
 vetrinaRicerca
 ==============
 
-piccola app per la gestione di tematiche
+piccola app in laravel  per inserimento articoli
